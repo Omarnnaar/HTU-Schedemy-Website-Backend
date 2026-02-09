@@ -45,3 +45,4 @@ jobs:
           sudo systemctl daemon-reload
           sudo systemctl restart myapp
           sudo systemctl status myapp --no-pager
+
